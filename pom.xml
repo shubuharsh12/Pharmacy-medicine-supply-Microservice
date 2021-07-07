@@ -113,6 +113,6 @@
 				</plugin>
 			</plugins>
 		</pluginManagement>
-		<fileName>Pharmacy-medicine-supply-service</fileName>
+		<finalName>Pharmacy-medicine-supply-service</finalName>
 	</build>
 </project>
